@@ -1,3 +1,6 @@
+# 가위바위보 게임
+# 3판 2선승제로 구현
+
 import random
 
 def match_game(user, com):
